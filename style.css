@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #3673F5; /* biru langit */
+  height: 100vh;
+}
+canvas {
+  border: 2px solid black;
+  background: #70c5ce; /* biru langit */
+}
